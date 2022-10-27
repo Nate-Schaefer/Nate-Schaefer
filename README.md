@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 * 🌍  I'm based in Iowa City, Iowa
+* 🧠  I'm majoring in Computer Science and Engineering at the University of Iowa
 * ✉️  You can contact me at [www.linkedin.com/in/nathan-schaefer](mailto:www.linkedin.com/in/nathan-schaefer)
 
 ### Skills
