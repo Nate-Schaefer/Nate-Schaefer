@@ -3,7 +3,7 @@ Hi  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 * 🌍  I'm based in Iowa City, Iowa
 * 🧠  I'm majoring in Computer Science and Engineering at the University of Iowa
-* 🌐  Check out my personal website [nate-schaefer.github.io](https://nate-schaefer.github.io)
+* 🌐  Check out my personal website [nate-schaefer.com](https://nate-schaefer.com)
 * ✉️  You can contact me at [nathanschaefer-schaefer@uiowa.edu](mailto:nathanschaefer-schaefer@uiowa.edu)
 
 ### Skills
