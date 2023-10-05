@@ -1,9 +1,8 @@
 Hi  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nathan Schaefer
 =======================================================================================================================================
 
-* 🌍  I'm based in Iowa City, Iowa
-* 🧠  I'm majoring in Computer Science and Engineering at the University of Iowa
-* 🌐  Check out my personal website [nate-schaefer.com](https://nate-schaefer.com)
+* 🧠  I'm a junior majoring in Computer Science and Engineering at the University of Iowa
+* 🌐  Check out my personal website at [nate-schaefer.com](https://nate-schaefer.com)
 * ✉️  You can contact me at [nathanschaefer-schaefer@uiowa.edu](mailto:nathanschaefer-schaefer@uiowa.edu)
 
 ### Skills
