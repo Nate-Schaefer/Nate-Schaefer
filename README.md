@@ -28,6 +28,6 @@ Hi  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 ### Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nate-schaefer" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/nathan-schaefer" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="40" height="40" /></a>
 </p>
 
