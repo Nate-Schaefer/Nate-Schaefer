@@ -1,8 +1,8 @@
 Hi  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nathan Schaefer
 =======================================================================================================================================
 
-* 🧠 I'm a Senior majoring in Computer Science and Engineering at the University of Iowa
-* 💻 I'm currently working as a research assistant on [AudioGene](https://audiogene.eng.uiowa.edu/)
+* 🧠 I'm a Graduated Master's student in Electrical and Computer Engineering at the University of Iowa
+* 💻 I acocmplished a Master's thesis contributing to [AudioGene](https://audiogene.eng.uiowa.edu/)
 * 🌐 Check out my personal website at [nate-schaefer.com](https://nate-schaefer.com)
 * ✉️ You can contact me at [nathanschaefer14@gmail.com](mailto:nathanschaefer14@gmail.com)
 
